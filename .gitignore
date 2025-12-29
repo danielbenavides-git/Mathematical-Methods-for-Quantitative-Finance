@@ -1,0 +1,114 @@
+# =====================
+# Python
+# =====================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# =====================
+# Jupyter
+# =====================
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Remove notebook outputs automatically (optional)
+**/outputs/
+**/artifacts/
+
+# =====================
+# VSCode
+# =====================
+.vscode/
+*.code-workspace
+
+# =====================
+# Data (ignore large raw data, but allow configs)
+# =====================
+data/
+datasets/
+
+# Large data file types
+*.parquet
+*.h5
+*.hdf5
+
+# =====================
+# Models (weights only, not source code)
+# =====================
+models/
+checkpoints/
+
+# Model weight types
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.pkl
+*.joblib
+
+# =====================
+# Logs & Outputs
+# =====================
+logs/
+wandb/
+mlruns/
+outputs/
+plots/
+
+# =====================
+# Config & Credentials
+# =====================
+*.env
+.env.*
+*.json.secret
+credentials/
+keys/
+
+# =====================
+# OS / Misc
+# =====================
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+
+# =====================
+# Build Artifacts
+# =====================
+build/
+dist/
+*.egg-info/
+
+# =====================
+# R / RStudio
+# =====================
+.Rhistory
+.RData
+.Ruserdata
+
+# RStudio project metadata
+.Rproj.user/
+*.Rproj
+
+# R CMD check
+..Rcheck/
+
+# R package build artifacts
+*.tar.gz
+*.Rcheck/
+
+# =====================
+# Archives
+# =====================
+*.zip
+*.7z
+*.tar
+*.tar.gz
+*.tgz

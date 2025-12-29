@@ -1,0 +1,66 @@
+# ============================================
+# Core Git Settings
+# ============================================
+* text=auto eol=lf
+
+# Binary files
+*.png  binary
+*.jpg  binary
+*.jpeg binary
+*.gif  binary
+*.bmp  binary
+*.tiff binary
+*.ico  binary
+
+*.pdf  binary
+*.zip  binary
+*.gz   binary
+*.tar  binary
+*.7z   binary
+
+*.pkl  binary
+*.pickle binary
+*.npy  binary
+*.npz  binary
+*.pt   binary
+*.pth  binary
+*.h5   binary
+*.hdf5 binary
+
+# ============================================
+# Jupyter Notebook Output Stripping
+# (via nbstripout, not Git LFS)
+# ============================================
+*.ipynb filter=nbstripout text
+
+# Make notebooks always LF line endings
+*.ipynb eol=lf
+
+# ============================================
+# Code & Configuration Files
+# ============================================
+*.py   text
+*.json text
+*.yaml text
+*.yml  text
+*.md   text
+*.txt  text
+*.csv  text
+*.tsv  text
+*.toml text
+*.ini  text
+*.R     text
+*.Rmd   text
+*.qmd   text
+
+# ============================================
+# Ignore large data formats as binary
+# (prevents Git from trying to diff them)
+# ============================================
+*.parquet binary
+*.feather binary
+
+# ============================================
+# OS-specific or IDE metadata (if included)
+# ============================================
+*.psd binary
