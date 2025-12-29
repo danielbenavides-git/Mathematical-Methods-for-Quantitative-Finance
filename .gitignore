@@ -29,10 +29,11 @@ venv/
 *.code-workspace
 
 # =====================
-# Data (ignore large raw data, but allow configs)
+# Data and Lectures
 # =====================
 data/
 datasets/
+lectures/
 
 # Large data file types
 *.parquet
