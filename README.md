@@ -20,9 +20,4 @@ Key mathematical tools covered include probability theory, stochastic processes,
 
 ---
 
-## Topics Covered (Up to Week 1)
-
 ### Module 1: Probability
-
-## Repository Structure
-
