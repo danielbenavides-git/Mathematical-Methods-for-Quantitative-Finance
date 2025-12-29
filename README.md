@@ -21,5 +21,5 @@ Key mathematical tools covered include probability theory, stochastic processes,
 ---
 
 ### Module 1: Probability
-- Lecture 1 | [PDF](Module_1_-_Probability/handouts-week01.pdf)
-- Recitation 1 | [PDF](Module_1_-_Probability/recitation-week01v1.pdf)
+- Lecture 1 | [PDF](Module 1 - Probability/handouts-week01.pdf)
+- Recitation 1 | [PDF](Module 1 - Probability/handouts-week01.pdf)
