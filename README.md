@@ -23,4 +23,9 @@ Key mathematical tools covered include probability theory, stochastic processes,
 ## Course Content
 
 <!-- AUTO-GENERATED: START -->
+
+### Module 1 - Probability
+- Handouts Week01 | [PDF](https://nbviewer.org/github/danielbenavides-git/Mathematical-Methods-for-Quantitative-Finance/blob/main/Module%201%20-%20Probability/handouts-week01.pdf)
+- Recitation Week01V1 | [PDF](https://nbviewer.org/github/danielbenavides-git/Mathematical-Methods-for-Quantitative-Finance/blob/main/Module%201%20-%20Probability/recitation-week01v1.pdf)
+
 <!-- AUTO-GENERATED: END -->
