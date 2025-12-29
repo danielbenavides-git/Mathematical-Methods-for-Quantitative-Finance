@@ -8,7 +8,7 @@ This repository contains my personal solutions, implementations, and supporting 
 
 ## Instructor
 
-MIT faculty (MITx – MicroMasters in Finance)
+Massachusetts Institute of Technology (MITx – MicroMasters in Finance)
 
 ---
 
@@ -21,3 +21,5 @@ Key mathematical tools covered include probability theory, stochastic processes,
 ---
 
 ### Module 1: Probability
+- Lecture 1 | [PDF](Module_1_-_Probability/handouts-week01.pdf)
+- Recitation 1 | [PDF](Module_1_-_Probability/recitation-week01v1.pdf)
