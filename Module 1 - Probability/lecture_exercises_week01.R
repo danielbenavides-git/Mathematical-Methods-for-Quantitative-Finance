@@ -25,3 +25,17 @@ exercise1_7 = function(lambda, k) {
 # SOLUTION
 exercise1_7(6, 5)
 exercise1_7(6, 6)
+
+# Exercise 1.8: Sums of Random Variables
+
+N = 30
+wi = 1/N
+u = 0.1
+sigma = 0.3
+
+volatility = N * (wi^2) * (sigma^2)
+volatility_sqrt = sqrt(volatility)
+volatility_sqrt
+volatility_sqrt * 100
+
+# Exercise 1.9: Binomial Sums and Expectations
