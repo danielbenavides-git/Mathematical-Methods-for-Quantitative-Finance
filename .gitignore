@@ -6,6 +6,8 @@ __pycache__/
 *.pyo
 *.pyd
 *.so
+
+# FILES TO IGNORE
 update_readme.py
 
 # Virtual environments
