@@ -8,7 +8,7 @@ __pycache__/
 *.so
 
 # FILES TO IGNORE
-update_readme.py
+/update_readme.py
 
 # Virtual environments
 env/
