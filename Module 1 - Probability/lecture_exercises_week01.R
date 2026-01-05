@@ -37,6 +37,3 @@ volatility = N * (wi^2) * (sigma^2)
 volatility_sqrt = sqrt(volatility)
 volatility_sqrt
 volatility_sqrt * 100
-
-# Exercise 1.12
-
