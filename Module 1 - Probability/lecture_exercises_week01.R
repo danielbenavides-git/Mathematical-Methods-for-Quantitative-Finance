@@ -38,4 +38,5 @@ volatility_sqrt = sqrt(volatility)
 volatility_sqrt
 volatility_sqrt * 100
 
-# Exercise 1.9: Binomial Sums and Expectations
+# Exercise 1.11 Infinite Sums and the Central Limit Theorem
+
