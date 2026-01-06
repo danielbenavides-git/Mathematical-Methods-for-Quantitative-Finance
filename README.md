@@ -28,4 +28,8 @@ Key mathematical tools covered include probability theory, stochastic processes,
 - Handouts Week01 | [PDF](https://nbviewer.org/github/danielbenavides-git/Mathematical-Methods-for-Quantitative-Finance/blob/main/Module%201%20-%20Probability/handouts-week01.pdf)
 - Recitation Week01V1 | [PDF](https://nbviewer.org/github/danielbenavides-git/Mathematical-Methods-for-Quantitative-Finance/blob/main/Module%201%20-%20Probability/recitation-week01v1.pdf)
 
+### Module 2 - Introduction to Discrete-Time Stochastic Processes
+- Handouts Week02V2 | [PDF](https://nbviewer.org/github/danielbenavides-git/Mathematical-Methods-for-Quantitative-Finance/blob/main/Module%202%20-%20Introduction%20to%20Discrete-Time%20Stochastic%20Processes/handouts-week02v2.pdf)
+- Recitation Week02V2 | [PDF](https://nbviewer.org/github/danielbenavides-git/Mathematical-Methods-for-Quantitative-Finance/blob/main/Module%202%20-%20Introduction%20to%20Discrete-Time%20Stochastic%20Processes/recitation-week02v2.pdf)
+
 <!-- AUTO-GENERATED: END -->
