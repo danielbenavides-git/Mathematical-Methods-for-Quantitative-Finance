@@ -23,4 +23,3 @@ for (n in nlist) {
           main=paste("Binomial Distribution, p=",p," n=",n))
   readline()
 }
-
