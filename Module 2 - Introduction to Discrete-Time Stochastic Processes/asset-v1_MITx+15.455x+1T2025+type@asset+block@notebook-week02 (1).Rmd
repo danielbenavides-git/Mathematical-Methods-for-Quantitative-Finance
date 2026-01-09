@@ -33,7 +33,6 @@ If you have never installed them, uncomment the lines in the block below and run
 ```
 
 Now we'll load packages.
-
 ```{r loading}
 library(tidyquant)
 library(ggplot2)
